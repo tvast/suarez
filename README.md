@@ -1,4 +1,6 @@
-# Code for my blog post - [How to build your own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.hhddn3s2m)
+# Boilerpalte for suarez the uber for teacher
+
+Code for my blog post - [How to build your own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.hhddn3s2m)
 
 ### How to install:
 
